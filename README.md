@@ -10,4 +10,5 @@ A chatroom website using websocket connections that is heavily inspired by Picto
 - Chats aren't stored to a database
 - Contacts selection, allowing for easy direct connections to online users
 
+_test_
 _This is still a work in progress, and this readme will be updated as I think of more features_
